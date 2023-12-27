@@ -25,4 +25,16 @@ php artisan config:cache
 
 ```bash
 php artisan serve
+
+- goto /login to login your prefered account
 ```
+
+NOTE:
+
+i have created 3 users in the migration 
+
+- username:admin_manager pass:password
+- username:admin_designer pass:password
+- username:admin_developer pass:password
+
+there is a file " sample_data.sql " this is a sample exployee data if you want to import this
