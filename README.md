@@ -37,4 +37,4 @@ i have created 3 users in the migration
 - username:admin_designer pass:password
 - username:admin_developer pass:password
 
-there is a file " sample_data.sql " this is a sample exployee data if you want to import this
+there is a file " sample_data.sql " file in the root DIR this is a sample exployee data if you want to import this
